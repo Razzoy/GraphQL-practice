@@ -1,0 +1,13 @@
+.navStyle{
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    background-color: #000242;
+    a{
+        color: white;
+        text-decoration: none;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+}
